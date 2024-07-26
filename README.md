@@ -1,0 +1,1 @@
+This MIPS program evaluates mathematical expressions in postfix Reverse Polish Notation entered by the user through memory-mapped IO and displays the evaluation as an ASCII character of the evaluated number. The resulting number of the expression must be within the limits of printable ASCII characters (from 32 to 176).
